@@ -11,10 +11,12 @@ This is part of the self-paced software engineering I am completing: [#100devs](
 - Javascript
 
 ## Optimizations
-It needs more birds. I will be learning more MongoDB soon so instead of manually entering the data into an API, I will store the data in a database but will likely leave this API live for reference to an API built with a static object.
+It would be a great improvement to have more birds available in the API. Now there are only three.
+
+I would add CSS to style the application.
 
 ## Lessons Learned
-I learned about 
+I learned about the difference between client-side and server-side javascript. This code can be run locally and still access the remote API hosted on render.com.
 
 ## Related Projects
 Here is where the Bird API data is hosted:
